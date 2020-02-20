@@ -1,0 +1,23 @@
+# 前端
+1.搜索框    http://www.jq22.com/code1887
+
+
+
+#django
+1. from的使用    https://www.cnblogs.com/yuyafeng/p/11104362.html
+2. 为什么要注释掉  'django.middleware.csrf.CsrfViewMiddleware',https://blog.csdn.net/weixin_41782332/article/details/81140172
+3. form error https://www.cnblogs.com/linyuhong/p/9487525.html
+4. form 前端error 处理   https://www.cnblogs.com/chenchao1990/p/5284237.html
+                         https://www.cnblogs.com/yangmv/p/5327427.html
+#xadmin
+https://github.com/sshwsfc/xadmin
+5. xadmin django-crispy-forms future
+6.django3 没有six 需要手动拷贝到对应的目录下;ModuleNotFoundError: No module named 'django.urls' 改为了django.urls
+7.  https://blog.csdn.net/weixin_44485643/article/details/104243048
+8. https://www.cnblogs.com/worldinmyeyes/p/12018229.html   https://blog.csdn.net/KreaWu/article/details/89400647
+9. https://blog.csdn.net/tank2737/article/details/89303487
+10. blog.csdn.net/steventian72/article/details/85225631
+11.xadmin 版本报错锦集  http://www.lybbn.cn/data/bbsdatas.php?lybbs=50        https://www.cnblogs.com/xingfuggz/p/10142388.html   https://blog.csdn.net/Vicco_Cc/article/details/81045194
+12.django3 没有 ModuleNotFoundError: No module named 'django.contrib.staticfiles.templatetags'  需要手动copy
+14. xadmin/view/website.py login logout
+15. /xadmin/utils.py   def vendor(*tags)函数
